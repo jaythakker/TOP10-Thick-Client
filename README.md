@@ -13,6 +13,6 @@ Thick client application penetration is one of the gray area where-in lots of ar
 - Improper Input Validation
 - Weak Permissions
 - Insecure Authentication
-- Insecure load of DLLs
+- Path Interception
 - Missing Memory Protection
 

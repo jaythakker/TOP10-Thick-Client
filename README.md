@@ -5,16 +5,50 @@ Thick client application penetration is one of the gray area where-in lots of ar
 
 
 ## TOP 10
-- DLL Hijacking
-- DLL Injection
-- Insecure Data Storage - Data Stored in Files, Registry.
-- Hardcoded Credentials
-- Insecure Communication - Vulnerabilities like Clear text communication, TLS/SSL related Vulnerabilities.
-- Improper Input Validation
-- Weak Permissions
-- Insecure Authentication
-- Path Interception
-- Missing Memory Protection
+- T1: DLL Hijacking
+- T2: DLL Injection
+- T3: Insecure Data Storage - Data Stored in Files, Registry.
+- T4: Hardcoded Credentials
+- T5: Insecure Communication - Vulnerabilities like Clear text communication, TLS/SSL related Vulnerabilities.
+- T6: Improper Input Validation
+- T7: Weak Permissions
+- T8: Insecure Authentication
+- T9: Path Interception
+- T10: Missing Memory Protection
+
+
+**T1: DLL Hijacking**
+
+
+**T2: DLL Injection**
+
+
+**T3: Insecure Data Storage**
+
+
+**T4: Hardcoded Credentials**
+
+
+**T5: Insecure Communication**
+
+
+**T6: Improper Input Validation**
+
+
+**T7: Weak Permissions**
+
+
+**T8: Insecure Authentication**
+
+
+**T9: Path Interception**
+
+
+**T10: Missing Memory Protection**
+
+
+Feel free to get in touch with me if you have any suggestions.
+
 
 **Disclaimer:**
 Please note, my aim is not to try to override any available standard for thick client application penetration testing. This TOP 10 is a result based upon my experience.

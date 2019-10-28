@@ -48,5 +48,5 @@ In this vulnerability if the path has one or more spaces and is not surrounded b
 ASLR, DEP, CFG needs to implemented for all application at source code level. This would decrease the chances of severe vulnerabilities like Buffer Overflow.
 
 
-**Disclaimer:**<br/>
+<br/><br/>**Disclaimer:**<br/>
 Please note, my aim is not to try to override any available standard for thick client application penetration testing. This TOP 10 is a result based upon my experience.<br/>Feel free to get in touch with me if you have any suggestions.

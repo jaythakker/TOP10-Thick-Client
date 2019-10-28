@@ -7,9 +7,9 @@ Thick client application penetration is one of the gray area where-in lots of ar
 ## TOP 10
 - T1: DLL Hijacking
 - T2: DLL Injection
-- T3: Insecure Data Storage - Data Stored in Files, Registry.
+- T3: Insecure Data Storage
 - T4: Hardcoded Credentials
-- T5: Insecure Communication - Vulnerabilities like Clear text communication, TLS/SSL related Vulnerabilities.
+- T5: Insecure Communication
 - T6: Improper Input Validation
 - T7: Weak Permissions
 - T8: Insecure Authorization
